@@ -692,6 +692,11 @@ section {
     z-index: 2;
 }
 
+.skill-icon img
+{
+    width: 80px;
+}
+
 .skill-item h3 {
     font-size: 24px;
     font-weight: 600;
